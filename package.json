@@ -1,0 +1,10 @@
+{
+  "name": "vim-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "numToStr",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  }
+}
