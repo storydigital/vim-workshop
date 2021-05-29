@@ -5,7 +5,8 @@
     "author": "numToStr",
     "license": "MIT",
     "scripts": {
-        "dev": "mdx-deck -p 3000 deck.mdx"
+        "dev": "mdx-deck -p 3000 deck.mdx",
+        "build": "mdx-deck build deck.mdx"
     },
     "devDependencies": {
         "mdx-deck": "^4.1.1"
